@@ -1,5 +1,6 @@
 ## Taxonomy of bugs
 https://en.wikipedia.org/wiki/Software_bug#Types
+https://flylib.com/books/en/2.156.1/defect_taxonomies.html
 
 ## Initial idea :
  On est bien dans #random ici ? J'ai envie qu'il existe un Musée du Bug sur GitHub, avec que des bouts de code buggués. Vous auriez des trucs à contribuer (et l'envie de le faire) ?
